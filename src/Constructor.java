@@ -8,7 +8,7 @@ public class Constructor
     Constructor creator setting variable value
     @param number sets value of variable
      */
-    public void Constructor(int number1)
+    public  Constructor(int number1)
     {
         variable = number1;
     }
@@ -18,7 +18,7 @@ public class Constructor
      */
     public void Constructor()
     {
-        variable = 0;
+    variable = 0;
     }
     /*
     Gets the variable value
